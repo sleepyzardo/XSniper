@@ -1,0 +1,11 @@
+{
+    "discord": {
+        "channelId": "",
+        "webhook": "",
+        "token": ""
+    },
+    "bot": {
+        "priceLimit": 30000,
+        "mode": "shiny"
+    }
+}
