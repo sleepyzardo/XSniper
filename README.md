@@ -1,2 +1,3 @@
 # XSniper
-Market Sniper for the poketwo Bot
+
+Currently only supports shiny mode. Maybe I will add more in future.
